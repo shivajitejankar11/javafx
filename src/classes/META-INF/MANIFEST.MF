@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: SANIKA
+Class-Path: JavaFXWebBrowser_lib/jfoenix-1.10.0.jar JavaFXWebBrowser_l
+ ib/commons-validator-1.6.jar JavaFXWebBrowser_lib/jsoup-1.11.2.jar Ja
+ vaFXWebBrowser_lib/image4j-0.7.2.jar
+Build-Jdk: 1.8.0_25
+Created-By: Maven Integration for Eclipse
+Main-Class: main.java.com.goxr3plus.javafxwebbrowser.application.Main
+
